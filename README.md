@@ -1,7 +1,5 @@
-<div style="display: flex; justify-content: center;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Reddit+Mono&duration=2000&pause=3000&color=F7F7F7&random=false&width=435&lines=My+mom+chose+this+profession+for+me..." alt="Typing SVG">
-    </a>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Reddit+Mono&duration=2000&pause=3000&color=F7F7F7&random=false&width=435&lines=My+mom+chose+this+profession+for+me..." alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -41,12 +39,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFkdnd3Ym1sbGlnc3Q1eGR5ZDh4ZzJ2aGdmd2VqcHNlZWRrMTRjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ZxuYS9ovJx44CdQS5/giphy.gif"  />
 
 ###
 
