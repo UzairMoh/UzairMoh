@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reddit+Mono&duration=2000&pause=3000&color=F7F7F7&random=false&width=435&lines=My+mom+chose+this+profession+for+me...)](https://git.io/typing-svg)
+<div style="display: flex; justify-content: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Reddit+Mono&duration=2000&pause=3000&color=F7F7F7&random=false&width=435&lines=My+mom+chose+this+profession+for+me..." alt="Typing SVG">
+    </a>
+</div>
 
 ###
 
