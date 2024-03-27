@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💀 About Me:
 My mom chose this profession for me
 
 
@@ -7,7 +7,6 @@ My mom chose this profession for me
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=UzairMoh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=UzairMoh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UzairMoh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=UzairMoh&limit=5&theme=dark&combine_all_yearly_contributions=true)
