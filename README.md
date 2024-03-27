@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzairMoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=How%20much%20work%20I%20do" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=UzairMoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=For%20my%20boss" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UzairMoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&custom_title=I%20speak:" height="150" alt="languages graph"  />
 </div>
 
@@ -44,12 +44,6 @@
 <br clear="both">
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFkdnd3Ym1sbGlnc3Q1eGR5ZDh4ZzJ2aGdmd2VqcHNlZWRrMTRjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ZxuYS9ovJx44CdQS5/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/UzairMoh/UzairMoh/output/snake.svg" alt="Snake animation" />
 
 ###
 
