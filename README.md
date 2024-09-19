@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzairMoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=For%20my%20boss" height="193" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UzairMoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&custom_title=For%20my%20boss" height="193" width ="100" alt="stats graph" />
   <img width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFkdnd3Ym1sbGlnc3Q1eGR5ZDh4ZzJ2aGdmd2VqcHNlZWRrMTRjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ZxuYS9ovJx44CdQS5/giphy-downsized.gif" />
   <br>
     <img src="https://streak-stats.demolab.com?user=UzairMoh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="244" alt="streak graph"  />
