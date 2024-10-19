@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=UzairMoh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="244" alt="streak graph" />
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="30" alt="Adobe XD logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
 </div>
 
 <br><br>
