@@ -33,13 +33,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
 </div>
-
-<br><br>
-
-<br><br>
-
-<h4 align="center">Stalker count:</h4>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/UzairMoh/count.svg?" alt="Profile counter" />
-</div>
